@@ -1,15 +1,20 @@
 var expect = require('chai').expect;
-var toJson = require('../compiled/toJson.js');
+var xml2json = require('../compiled/lib/xml2json.js');
 
 var rawTermEntry = require('./rawTermEntry.json');
-var step1 = toJson.step1(rawTermEntry);
-var step2 = toJson.step2(step1, 'de', 'nl');
-var step3 = toJson.step3(step2, 'de', 'nl');
+var step1 = xml2json.step1(rawTermEntry);
+// console.log(step1);
+var step2 = xml2json.step2(step1, 'de', 'nl');
+// console.log(step2);
+var step3 = xml2json.step3(step2, 'de', 'nl');
+// console.log(step3);
+var allSteps = xml2json.getDictArr(rawTermEntry, 'de', 'nl');
 
 var rawTermEntryMS = require('./rawTermEntryMS.json');
-var step1MS = toJson.step1(rawTermEntryMS);
-var step2MS = toJson.step2(step1MS, 'en-US', 'nl-nl');
-var step3MS = toJson.step3(step2MS, 'en-US', 'nl-nl');
+var step1MS = xml2json.step1(rawTermEntryMS);
+var step2MS = xml2json.step2(step1MS, 'en-US', 'nl-nl');
+var step3MS = xml2json.step3(step2MS, 'en-US', 'nl-nl');
+var allStepsMS = xml2json.getDictArr(rawTermEntryMS, 'en-US', 'nl-nl');
 
 // IATE TBX with tig tbx format
 
@@ -93,6 +98,23 @@ describe('Testing step 3 with IATE', function () {
 	});
 });
 
+describe('Testing all steps with IATE', function () {
+	it('should have an ID IATE-3557458', function () {
+		expect(allSteps[0]).to.have.a.property('id', 'IATE-3557458');
+	});
+	it('should have a property subjectFields thats an array with length 1', function() {
+		expect(allSteps[0].subjectFields).to.be.a('array')
+			.with.length(1);
+	});
+	it('should have a property note with string Drug addiction', function() {
+		expect(allSteps[0]).to.have.a.property('note', 'Drug addiction');
+	});
+	it('should be an array with two entries', function () {
+		expect(allSteps).to.a('array')
+			.with.length(2);
+	});
+});
+
 // Microsoft TBX with ntig tbx format
 
 // Step 1: multilingual termbase object
@@ -129,5 +151,17 @@ describe('Testing step 3 with MS', function () {
 	});
 	it('should have a property nl-nl with an array as content', function () {
 		expect(step3MS[0]['nl-nl']).to.be.a('array');
+	});
+});
+
+describe('Testing all steps with MS', function () {
+	it('should have an ID 1_11444', function () {
+		expect(allStepsMS[0]).to.have.a.property('id', '1_11444');
+	});
+	it('should have a property definition with a string', function () {
+		expect(allStepsMS[0].definition).to.be.a('string');
+	});
+	it('should have a property nl-nl with an array as content', function () {
+		expect(allStepsMS[0]['nl-nl']).to.be.a('array');
 	});
 });

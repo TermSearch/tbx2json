@@ -6,13 +6,12 @@
 
 var fs = require('fs');
 var path = require('path');
-var _ = require('lodash-node');
 var ProgressBar = require('progress');
 var XmlStream = require('xml-stream');
 var through = require('through');
 
 // Project modules
-var toJson = require('./toJson');
+var xml2json = require('./lib/toJson');
 
 // Help for command line interface
 var usageExample = 'Usage: tbx2json input.tbx output.json de nl 100';
@@ -61,6 +60,19 @@ var filterInvalid = through(function (buffer) {
 	return this.emit('data', data);
 });
 
+// Convert obj to JSON string
+var toJsonStr = function toJsonStr(obj) {
+	var jsonStr = '';
+	// if counter is 0, it's beginning of the file > open array
+	if (counter === 0) jsonStr += '[';
+	obj.forEach(function (e) {
+		// if it's not the beginning of the file, place comma before next element
+		if (counter > 0) jsonStr += ',';
+		jsonStr += JSON.stringify(e, null, 4);
+	});
+	return jsonStr;
+};
+
 // First filter invalid xml characters
 stream.pipe(filterInvalid);
 
@@ -74,24 +86,13 @@ xml.collect('tig');
 
 // Open chunk once a termEntry element is completely loaded
 xml.on('endElement: termEntry', function (termEntry) {
-	// console.log(JSON.stringify(termEntry, null, 4));
 
-	// Step 1: convert termEntry to dictionary object
-	var objStep1 = toJson.step1(termEntry);
-
-	// Step 2: remove languages other than source and target
-	var objStep2 = toJson.step2(objStep1, sourceLang, targetLang);
-	var isObjStep2Empty = _.isEmpty(objStep2);
-
-	// Step 3: convert dict object to dictionary array
-	var objStep3 = [];
-	if (!isObjStep2Empty) {
-		objStep3 = toJson.step3(objStep2, sourceLang, targetLang);
-	}
+	// Convert xml to a dictionary array
+	var dictArr = xml2json.getDictArr(termEntry, sourceLang, targetLang);
 
 	// Step 4: write valid JSON to file
-	if (objStep3.length > 0) {
-		var jsonStr = toJson.toJsonStr(objStep3, counter);
+	if (dictArr) {
+		var jsonStr = toJsonStr(dictArr, counter);
 		writeStream.write(jsonStr);
 		counter++;
 	}

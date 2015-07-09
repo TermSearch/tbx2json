@@ -1,8 +1,10 @@
-// Converts "123, 345" to [123, 345]
 'use strict';
 
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
+var _ = require('lodash-node');
+
+// Converts "123, 345" to [123, 345]
 var stringOfNumsToArr = function stringOfNumsToArr(subjectFieldStr) {
 	var arr = subjectFieldStr.split(', ');
 	if (arr[0] === '') {
@@ -39,19 +41,6 @@ var convertLangSet = function convertLangSet(langSet) {
 	});
 };
 
-// Convert obj to JSON string
-var toJsonStr = function toJsonStr(obj, counter) {
-	var jsonStr = '';
-	// if counter is 0, it's beginning of the file > open array
-	if (counter === 0) jsonStr += '[';
-	obj.forEach(function (e) {
-		// if it's not the beginning of the file, place comma before next element
-		if (counter > 0) jsonStr += ',';
-		jsonStr += JSON.stringify(e, null, 4);
-	});
-	return jsonStr;
-};
-
 // Get subjectfields and convert string to array of numbers
 var getMetaData = function getMetaData(termEntry) {
 	// return obj o
@@ -79,11 +68,12 @@ var step1 = function step1(termEntry) {
 		var lang = Object.keys(term)[0];
 		objStep1[lang] = term[lang];
 	});
-	return objStep1;
+	// Return false if object is empty
+	return _.isEmpty(objStep1) ? false : objStep1;
 };
 
 var step2 = function step2(objStep1, sourceLang, targetLang) {
-	var objStep2 = {};
+	var objStep2 = false;
 	if (objStep1[sourceLang] && objStep1[targetLang]) {
 		var _objStep2;
 
@@ -95,18 +85,36 @@ var step2 = function step2(objStep1, sourceLang, targetLang) {
 };
 
 var step3 = function step3(objStep2, sourceLang, targetLang) {
-	var arrayStep3 = [];
+	var arrStep3 = [];
 	objStep2[sourceLang].forEach(function (termStr) {
 		// clone the metaDataObj as basis for dictionary entry
 		var entry = JSON.parse(JSON.stringify(objStep2.metaDataObj));
 		entry[sourceLang] = termStr;
 		entry[targetLang] = objStep2[targetLang];
-		arrayStep3.push(entry);
+		arrStep3.push(entry);
 	});
-	return arrayStep3;
+	// return false if empty
+	return arrStep3.length > 0 ? arrStep3 : false;
+};
+
+var getDictArr = function getDictArr(termEntry, sourceLang, targetLang) {
+	var objStep1;
+	var objStep2;
+	var arrStep3;
+
+	// Step 1: convert termEntry to dictionary object
+	objStep1 = step1(termEntry);
+
+	// Step 2: remove languages other than source and target
+	if (objStep1) objStep2 = step2(objStep1, sourceLang, targetLang);
+
+	// Step 3: convert dictionary object to dictionary array, false if empty
+	if (objStep2) arrStep3 = step3(objStep2, sourceLang, targetLang);
+	// Returns false if empty
+	return arrStep3;
 };
 
 module.exports.step1 = step1;
 module.exports.step2 = step2;
 module.exports.step3 = step3;
-module.exports.toJsonStr = toJsonStr;
+module.exports.getDictArr = getDictArr;

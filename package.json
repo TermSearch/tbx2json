@@ -4,11 +4,11 @@
 	"description": "Converts tbx to simple json",
 	"main": "./compiled/tbx2json.js",
 	"scripts": {
-		"build": "mkdir -p ./compiled/ && babel ./*.es6 --out-dir ./compiled",
+		"build": "mkdir -p ./compiled/ && mkdir -p ./compiled/lib && babel ./*/*.es6 --out-dir ./compiled",
 		"prepublish": "npm run build",
-		"watch": "npm build && babel ./*.es6 --out-dir ./compiled --watch",
+		"watch": "npm build && babel ./*/*.es6 --out-dir ./compiled --watch" ,
 		"test": "npm run build && mocha",
-		"run": "npm run build && node ./compiled/tbx2json.js"
+		"start": "npm run build && node ./compiled/tbx2json.js"
 	},
 	"author": "Koen van Gilst",
 	"license": "ISC",
