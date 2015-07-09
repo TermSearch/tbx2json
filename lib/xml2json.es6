@@ -1,3 +1,6 @@
+// Actual parser library
+
+// lodash for function _.isEmpty()
 var _ = require('lodash-node');
 
 // Converts "123, 345" to [123, 345]

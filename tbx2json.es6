@@ -8,7 +8,7 @@ var XmlStream = require('xml-stream');
 var through = require('through');
 
 // Project modules
-var xml2json = require('./lib/toJson');
+var xml2json = require('./lib/xml2json');
 
 // Help for command line interface
 const usageExample = 'Usage: tbx2json input.tbx output.json de nl 100';
