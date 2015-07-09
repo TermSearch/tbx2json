@@ -1,0 +1,609 @@
+{
+    "descripGrp": {
+        "descrip": {
+            "$": {
+                "type": "subjectField"
+            },
+            "$text": "2826004"
+        },
+        "note": "Drug addiction"
+    },
+    "langSet": [
+        {
+            "tig": [
+                {
+                    "term": [
+                        "маршрут за трафик"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "2"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "bg"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "trasa obchodování s drogami"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "cs"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "narkotikarute"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "da"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "Handelsroute"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                },
+                {
+                    "term": [
+                        "Schmuggelroute"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "de"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "οδός διακίνησης"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "el"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "trafficking route"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "en"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "ruta de tráfico"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "es"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "salakaubaveo marsruut"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "et"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "salakuljetusreitti"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "fi"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "voie de trafic"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "fr"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "bealach gáinneála"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "2"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "ga"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "put krijumčarenja"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "hr"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "csempészútvonal"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "hu"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "rotta di traffico"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "3"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "it"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "kontrabandos kelias"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "lt"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "piegādes ķēde"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "2"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "lv"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "rotta ta’ traffikar"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "2"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "mt"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "smokkelroute"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "nl"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "szlak przemytu"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "pl"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "rota de tráfico"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "pt"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "rută de trafic de droguri"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "ro"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "obchodná cesta"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "sk"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "preprodajalska pot"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "4"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "sl"
+            }
+        },
+        {
+            "tig": [
+                {
+                    "term": [
+                        "smugglingsväg"
+                    ],
+                    "termNote": {
+                        "$": {
+                            "type": "termType"
+                        },
+                        "$text": "fullForm"
+                    },
+                    "descrip": {
+                        "$": {
+                            "type": "reliabilityCode"
+                        },
+                        "$text": "2"
+                    }
+                }
+            ],
+            "$": {
+                "xml:lang": "sv"
+            }
+        }
+    ],
+    "$": {
+        "id": "IATE-3557458"
+    }
+}
