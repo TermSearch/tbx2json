@@ -1,6 +1,6 @@
 {
   "name": "tbx2json",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Converts tbx to json",
   "main": "./compiled/tbx2json.js",
   "scripts": {
