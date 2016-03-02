@@ -1,12 +1,14 @@
 {
   "name": "tbx2json",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Converts tbx to json",
-  "main": "tbx2json.js",
+  "main": "./tbx2json.js",
+  "bin": "./tbx2json.js",
   "scripts": {
     "test": "mocha",
     "start": "node ./tbx2json.js"
   },
+  "preferGlobal": "true",
   "author": "Koen van Gilst",
   "license": "MIT",
   "preferGlobal": true,
