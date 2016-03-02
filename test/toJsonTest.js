@@ -1,5 +1,7 @@
+'use strict'
+
 var expect = require('chai').expect;
-var xml2json = require('../compiled/lib/xml2json.js');
+var xml2json = require('../xml2json.js');
 
 var rawTermEntry = require('./rawTermEntry.json');
 var step1 = xml2json.step1(rawTermEntry);

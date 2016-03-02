@@ -1,9 +1,8 @@
 #! /usr/bin/env node
 
+'use strict'
 
 // Modules
-'use strict';
-
 var fs = require('fs');
 var path = require('path');
 var ProgressBar = require('progress');
@@ -11,10 +10,10 @@ var XmlStream = require('xml-stream');
 var through = require('through');
 
 // Project modules
-var xml2json = require('./lib/xml2json');
+var xml2json = require('./xml2json');
 
 // Help for command line interface
-var usageExample = 'Usage: tbx2json input.tbx output.json de nl 100';
+const usageExample = 'Usage: tbx2json input.tbx output.json de nl 100';
 // Show usageExample if no arguments are specified
 if (!process.argv[2]) {
 	console.log(usageExample);
@@ -22,14 +21,14 @@ if (!process.argv[2]) {
 }
 
 // Command line options
-var inputFile = process.argv[2];
-var outputFile = process.argv[3] || process.argv[2] + '.json';
-var maxTerms = Number(process.argv[6]) || Number.POSITIVE_INFINITY; // default = all terms
-var sourceLang = process.argv[4] || 'de';
-var targetLang = process.argv[5] || 'nl';
+const inputFile = process.argv[2];
+const outputFile = process.argv[3] || process.argv[2] + '.json';
+const maxTerms = Number(process.argv[6]) || Number.POSITIVE_INFINITY; // default = all terms
+const sourceLang = process.argv[4] || 'de';
+const targetLang = process.argv[5] || 'nl';
 
 // Gets the file size of filename in bytes
-var getFilesizeInBytes = function getFilesizeInBytes(filename) {
+var getFilesizeInBytes = function (filename) {
 	var stats = fs.statSync(filename);
 	var fileSizeInBytes = stats.size;
 	return fileSizeInBytes;
@@ -61,8 +60,8 @@ var filterInvalid = through(function (buffer) {
 });
 
 // Convert obj to JSON string
-var toJsonStr = function toJsonStr(obj) {
-	var jsonStr = '';
+var toJsonStr = function (obj) {
+	let jsonStr = '';
 	// if counter is 0, it's beginning of the file > open array
 	if (counter === 0) jsonStr += '[';
 	obj.forEach(function (e) {
@@ -92,7 +91,7 @@ xml.on('endElement: termEntry', function (termEntry) {
 
 	// Step 4: write valid JSON to file
 	if (dictArr) {
-		var jsonStr = toJsonStr(dictArr, counter);
+		let jsonStr = toJsonStr(dictArr, counter);
 		writeStream.write(jsonStr);
 		counter++;
 	}

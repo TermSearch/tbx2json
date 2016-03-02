@@ -1,53 +1,53 @@
+'use strict'
 // Actual parser library
-
+// Parses langSet xml element to JSON dictionary array
 // lodash for function _.isEmpty()
-'use strict';
-
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
-
-var _ = require('lodash-node');
+var _ = require('lodash');
 
 // Converts "123, 345" to [123, 345]
-var stringOfNumsToArr = function stringOfNumsToArr(subjectFieldStr) {
-	var arr = subjectFieldStr.split(', ');
+var stringOfNumsToArr = function(subjectFieldStr) {
+	var arr = subjectFieldStr.split(", ");
 	if (arr[0] === '') {
 		return ''; // empty string, no sf specified
 	} else {
-		return arr.map(function (n, i, a) {
+		return arr.map(function(n, i, a) {
 			return +n;
 		});
 	}
 };
 
 // Convert the array of tig term objects to an array of term strings
-var getTermsFromTig = function getTermsFromTig(tig) {
-	return tig.map(function (el) {
-		return el.term[0];
-	});
+var getTermsFromTig = function (tig) {
+	return tig.map(el => el.term[0]);
 };
 
 // Convert the array of ntig term objects to an array of term strings
-var getTermsFromNTig = function getTermsFromNTig(ntig) {
+var getTermsFromNTig = function (ntig) {
 	return [ntig.termGrp.term[0].$text];
 };
 
 // Convert a langSet object to flatter, simpler object
-var convertLangSet = function convertLangSet(langSet) {
-	return langSet.map(function (set) {
+var convertLangSet = function (langSet) {
+	return langSet.map(set => {
 		// Get the language code, i.e. "nl"
-		var lang = set.$['xml:lang'];
+		let lang = set.$["xml:lang"];
 		// The returned object looks like this { nl: ["term1", "term2", "term3"] }
 		// First check if termEntry format is tig of ntig
-		if (set.tig) return _defineProperty({}, lang, getTermsFromTig(set.tig));else {
-			return _defineProperty({}, lang, getTermsFromNTig(set.ntig));
+		if (set.tig) return {
+			[lang]: getTermsFromTig(set.tig)
+		};
+		else {
+			return {
+				[lang]: getTermsFromNTig(set.ntig)
+			};
 		}
 	});
 };
 
 // Get subjectfields and convert string to array of numbers
-var getMetaData = function getMetaData(termEntry) {
+var getMetaData = function (termEntry) {
 	// return obj o
-	var o = {};
+	let o = {};
 	// Check if termEntry has an id, assign it to return obj o
 	if (termEntry.$) o.id = termEntry.$.id;
 	// Check if termEntry has a descripGrp
@@ -63,35 +63,35 @@ var getMetaData = function getMetaData(termEntry) {
 	return o;
 };
 
-var step1 = function step1(termEntry) {
+var step1 = function (termEntry) {
 	var objStep1 = {};
-	var langSet = convertLangSet(termEntry.langSet);
+	let langSet = convertLangSet(termEntry.langSet);
 	langSet.forEach(function (term, i, arr) {
 		objStep1.metaDataObj = getMetaData(termEntry);
-		var lang = Object.keys(term)[0];
+		let lang = Object.keys(term)[0];
 		objStep1[lang] = term[lang];
 	});
 	// Return false if object is empty
 	return _.isEmpty(objStep1) ? false : objStep1;
 };
 
-var step2 = function step2(objStep1, sourceLang, targetLang) {
+var step2 = function (objStep1, sourceLang, targetLang) {
 	var objStep2 = false;
 	if (objStep1[sourceLang] && objStep1[targetLang]) {
-		var _objStep2;
-
-		objStep2 = (_objStep2 = {
-			metaDataObj: objStep1.metaDataObj
-		}, _defineProperty(_objStep2, sourceLang, objStep1[sourceLang]), _defineProperty(_objStep2, targetLang, objStep1[targetLang]), _objStep2);
+		objStep2 = {
+			metaDataObj: objStep1.metaDataObj,
+      [sourceLang]: objStep1[sourceLang],
+			[targetLang]: objStep1[targetLang]
+		};
 	}
 	return objStep2;
 };
 
-var step3 = function step3(objStep2, sourceLang, targetLang) {
+var step3 = function (objStep2, sourceLang, targetLang) {
 	var arrStep3 = [];
 	objStep2[sourceLang].forEach(function (termStr) {
 		// clone the metaDataObj as basis for dictionary entry
-		var entry = JSON.parse(JSON.stringify(objStep2.metaDataObj));
+		let entry = JSON.parse(JSON.stringify(objStep2.metaDataObj));
 		entry[sourceLang] = termStr;
 		entry[targetLang] = objStep2[targetLang];
 		arrStep3.push(entry);
@@ -100,7 +100,7 @@ var step3 = function step3(objStep2, sourceLang, targetLang) {
 	return arrStep3.length > 0 ? arrStep3 : false;
 };
 
-var getDictArr = function getDictArr(termEntry, sourceLang, targetLang) {
+var getDictArr = function(termEntry, sourceLang, targetLang) {
 	var objStep1;
 	var objStep2;
 	var arrStep3;

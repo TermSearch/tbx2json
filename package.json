@@ -1,32 +1,25 @@
 {
-	"name": "tbx2json",
-	"version": "1.0.2",
-	"description": "Converts tbx to simple json",
-	"main": "./compiled/tbx2json.js",
-	"scripts": {
-		"buildlibs": "mkdir -p ./compiled/lib && babel ./*/*.es6 --out-dir ./compiled",
-		"buildmain": "mkdir -p ./compiled && babel ./*.es6 --out-dir ./compiled",
-		"build": "npm run buildlibs && npm run buildmain",
-		"prepublish": "npm run build",
-		"watch": "npm build && babel ./*.es6 --out-dir ./compiled --watch && babel ./*/*.es6 --out-dir ./compiled --watch " ,
-		"test": "npm run build && mocha",
-		"start": "npm run build && node ./compiled/tbx2json.js"
-	},
-	"author": "Koen van Gilst",
-	"license": "ISC",
-	"preferGlobal": true,
-	"bin": {
-		"tbx2json": "./compiled/tbx2json.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/vnglst/tbx2json.git"
-	},
-	"dependencies": {
-		"chai": "^3.0.0",
-		"lodash-node": "^3.10.0",
-		"progress": "^1.1.8",
-		"through": "^2.3.8",
-		"xml-stream": "^0.4.5"
-	}
+  "name": "tbx2json",
+  "version": "1.0.3",
+  "description": "Converts tbx to json",
+  "main": "./compiled/tbx2json.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node ./tbx2json.js"
+  },
+  "author": "Koen van Gilst",
+  "license": "ISC",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vnglst/tbx2json.git"
+  },
+  "dependencies": {
+    "chai": "^3.0.0",
+    "lodash": "^4.6.0",
+    "mocha": "^2.4.5",
+    "progress": "^1.1.8",
+    "through": "^2.3.8",
+    "xml-stream": "^0.4.5"
+  }
 }
