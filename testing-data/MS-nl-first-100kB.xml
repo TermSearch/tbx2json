@@ -1,0 +1,3595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<martif type="TBX" xml:lang="en-US">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Microsoft Terminology Collection Export</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Microsoft Terminology Collection</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="1_11444">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A method of sorting data, such as a set of records, that typically uses the following order: punctuation marks, numerals, alphabetic characters (with capitals preceding lowercase letters), and any remaining symbols.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="11444">alphanumeric sort</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1684208">alfanumerieke sortering</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2_76365">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">To terminate a session with a computer accessed through a communications line usually a computer that is both distant and open to many users.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="76365">log off</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="76386">afmelden</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3_106184">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">To shorten the fractional part of a number, increasing the last remaining (rightmost) digit or not, according to whether the deleted portion was over or under five.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="106184">round</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="106193">afronden</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4_156085">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">Personally identifiable information (PII) that is protected in special ways by law or policy.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="156085">sensitive data</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="156089">gevoelige gegevens</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5_182425">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A business unit that is immediately under another business unit in the business hierarchy of an organization.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="182425">child business unit</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="348233">onderliggende Business Unit</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term id="1288279">onderliggende business unit</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7_96886">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The mode of a command-line application where it does not display confirmation messages or any other user interface items that normally appear on screen. The switch for quiet mode is typically '/q'.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="96886">quiet mode</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="96894">stille modus</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="10_307453">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An interface that is used to navigate the menus of a Unified Messaging (UM) system using DTMF or touchtone inputs.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="307453">Telephone User Interface</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="320841">Telephone User Interface</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="10_307467">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An interface that is used to navigate the menus of a Unified Messaging (UM) system using DTMF or touchtone inputs.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="307467">TUI</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="320846">TUI</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="10_1218391">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An interface that is used to navigate the menus of a Unified Messaging (UM) system using DTMF or touchtone inputs.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="1218391">touchtone interface</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1778106">interface voor toonkiezen</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="12_233129">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The part of a service order that specifies detailed information about the requested service.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="233129">service order line</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="355698">serviceorderregel</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="15_397203">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A logical grouping of managed folders. When a managed folder mailbox policy is applied to a user’s mailbox, all the managed folders that are linked to the policy are deployed in a single operation, thereby making the deployment of messaging records
+              management (MRM) easier.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="397203">managed folder mailbox policy</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="413212">postvakbeleid voor beheerde mappen</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="16_494929">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The space between the inside edge of a child element and its content.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="494929">padding</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1104063">opvulling</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="20_103799">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">For failover clusters or server clusters, a physical or logical entity that is capable of being managed by a cluster, brought online and taken offline, and moved between nodes. A resource can be owned only by a single node at any point in time.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="103799">resource</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="103819">bron</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="21_216347">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A field that can be used in a workflow rule or template as a placeholder for specific values or text in an e-mail. When you send an e-mail, these placeholders are replaced with the data that meet the conditions that have been set in the workflow
+              rule. For example, if you send an e-mail to an account holder about a contract cancellation date, you can use a dynamic data field to automatically find and insert the correct cancellation date for that contract.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="216347">dynamic data field</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="348272">dynamisch gegevensveld</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="22_364026">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A component of the World Wide Web Publishing Service (WWW service) in IIS that is responsible for configuration, by means of the metabase, and for worker process management.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="364026">WWW Service Administration and Monitoring component</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="371614">onderdeel WWW-servicebeheer en -controle</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="23_461846">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A tool on the main Windows SteadyState interface used to set schedules for software and operating system updates.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="461846">Schedule Important Software Updates</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="515146">Belangrijke softwareupdates plannen</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="24_537631">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A component that can be registered as part of the ASP.NET request lifecycle and that can read or change the request or response as it is processed. HttpModules are often used to perform special tasks that need to monitor each request, such as
+              security or site statistics.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="537631">HTTP module</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="550566">HTTP-module</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="25_42999">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">In communications, the portion of a Data Terminal Equipment (DTE) device that sends data.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="42999">data source</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="43019">gegevensbron</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="27_136378">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A transmission medium designed for high-speed data transfers over long distances. Cable modem services and Digital Subscriber Line (DSL) are examples of broadband networks.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="136378">broadband</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="136389">breedband</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="27_216700">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A transmission medium designed for high-speed data transfers over long distances. Cable modem services and Digital Subscriber Line (DSL) are examples of broadband networks.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="216700">broadband network</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="317427">breedbandnetwerk</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="28_307441">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A piece of the user interface (UI) in Outlook Web Access that can be hosted in iframes as part of other Web applications such as SharePoint Portal Server portals. Outlook Web Access exposes a set of Outlook Web Access Web Part URLs that allow other
+              applications to request certain portions of the Outlook Web Access UI. For example, another application can load the Outlook Web Access Web Part URL for the Inbox, Calendar, or Contact folder into an iframe hosted in that application.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="307441">Outlook Web Access Web Part</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="320827">Outlook Web Access-webonderdeel</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="29_45263">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A mark placed over, under, or through a character, usually to indicate a change in phonetic value from the unmarked state.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="45263">diacritical mark</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="45284">diakritisch teken</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="29_45264">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A mark placed over, under, or through a character, usually to indicate a change in phonetic value from the unmarked state.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="45264">diacritic</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="45284">diakritisch teken</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="31_1167251">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A shared service in Windows SharePoint Services and SharePoint Server that provides a means for storing, securing, and administering external content types and related objects.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="1167251">Business Data Connectivity service</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1167562">Business Data Connectivity-service</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="31_1167252">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A shared service in Windows SharePoint Services and SharePoint Server that provides a means for storing, securing, and administering external content types and related objects.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="1167252">Business Data Connectivity Shared Service</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1167565">gedeelde Business Data Connectivity-service</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="32_34941">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An object-based programming model designed to promote software interoperability; it allows two or more applications or components to easily cooperate with one another, even if they were written by different vendors, at different times, in different
+              programming languages, or if they are running on different computers running different operating systems.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="34941">COM</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="274696">COM</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="32_34942">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An object-based programming model designed to promote software interoperability; it allows two or more applications or components to easily cooperate with one another, even if they were written by different vendors, at different times, in different
+              programming languages, or if they are running on different computers running different operating systems.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="34942">Component Object Model</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="34957">Component Object Model</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="34_575">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">Of, pertaining to, or characteristic of hardware or software that uses characters or conventions unique to a particular country/region or group of countries/regions. Country/region-specific does not necessarily refer to spoken languages, although it
+              does allow for special characters (such as accent marks) that are language-specific. Generally, the features considered country/region-specific include keyboard layout (including special-character keys), time and date conventions, financial and
+              monetary symbols, decimal notation (decimal point or comma), and alphabetic sorting order. Such features are handled either by a computer's operating system or by application programs that offer options for tailoring documents to a particular set of
+              national/regional or international conventions.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="575">country/region-specific</term>
+              <termNote type="partOfSpeech">Adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="293022">land/regiospecifiek</term>
+              <termNote type="partOfSpeech">Adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="37_19721">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The process of setting the maximum portion of total network capacity that a service is allowed to use. An administrator can deliberately limit a servers Internet workload by not allowing it to receive requests at full capacity, thus saving resources
+              for other programs, such as e-mail.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="19721">bandwidth throttling</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="19731">bandbreedtebeperking</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="37_19722">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The process of setting the maximum portion of total network capacity that a service is allowed to use. An administrator can deliberately limit a servers Internet workload by not allowing it to receive requests at full capacity, thus saving resources
+              for other programs, such as e-mail.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="19722">network bandwidth throttling</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="271513">netwerkbandbreedtebeperking</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="39_158313">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A table of Internet Protocol version 4 (IPv4) addresses and their corresponding media access control (MAC) address. There is a separate ARP cache for each interface.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="158313">ARP cache</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="158333">ARP-cache</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="40_1359817">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An Office Communications Server that resides in the perimeter network and provides a single trusted point through which media traffic can traverse NATs and firewalls.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="1359817">A/V Conferencing Edge service</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1367546">A/V Conferencing Edge-service</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="41_340083">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A feature that allows you to open any XAML file on your hard disk (or a hyperlink on a web page) and run it within a browser without compilation.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="340083">Loose XAML</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="425043">Loose XAML</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="43_416375">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">Pertaining to a process, tool, etc. that is enabled by a particular technology.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="416375">powered by</term>
+              <termNote type="partOfSpeech">Other</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="475501">powered by</term>
+              <termNote type="partOfSpeech">Other</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="45_48540">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A menu that drops from the menu bar when requested and remains open without further action until the user closes it or chooses a menu item.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="48540">drop-down menu</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="48561">vervolgkeuzelijst</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="47_331734">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An edition of a Microsoft product that enables teams and organizations to create and work with rich, dynamic forms. InfoPath supports any customer-defined XML schema and integrates with Web services.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="331734">Microsoft® Office InfoPath® 2007</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="337488">Microsoft® Office InfoPath® 2007</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="49_27948">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A person or company who has the authority to purchase goods and services using a payment card.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="27948">cardholder</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="27956">kaarthouder</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="50_665">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The movement of information from one location to another, either within a computer (as from a disk drive to memory), between a computer and an external device (as between a file server and a computer on a network), or between separate computers.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="665">data transfer</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="685">gegevensoverdracht</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="51_415576">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A folder that corresponds to a project created in the Project Center. Items in this folder will automatically be associated with the project.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="415576">Project Watch Folder</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="486223">projectcontrolemap</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="52_182987">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The core component of DPM. The DPM service manages all core DPM operations, including replica creation, synchronization, and shadow copy creation.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="182987">DPM service</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="2064290">DPM-service</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="55_342532">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A list, accessed on the Business Contact Manager menu, in which the user can manage the format and content of user-defined field values.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="342532">Edit Field Value Lists</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="346608">Veldwaardenlijsten bewerken</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="58_545685">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A document view in Word that enables users to take notes more easily.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="545685">notebook layout view</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="547198">notitieblokweergave</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="60_361566">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A data structure exposed by the LOB system consisting of a set of related fields grouped together under a unique ID.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="361566">LOB entity</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="446832">LOB-entiteit</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="60_361567">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A data structure exposed by the LOB system consisting of a set of related fields grouped together under a unique ID.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="361567">line-of-business entity</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="446831">Line-Of-Business-entiteit</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="62_3160">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A server located on a network between client software, such as a Web browser, and another server. It intercepts all requests to the server to determine whether it can fulfill them itself. If not, it forwards the request to another server.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="3160">proxy server</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="3178">proxyserver</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="63_121914">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A type of note that helps users apply the techniques and procedures described in the text to their specific needs. A tip suggests alternative methods that may not be obvious and helps users understand the benefits and capabilities of the product. A
+              tip is not essential to the basic understanding of the text.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="121914">tip</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="121922">tip</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="65_23114">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">In programs and working environments that feature on-screen windows, the edge surrounding the user's workspace. Window borders provide a visible frame around a document or graphic. Depending on the program and its requirements, they can also
+              represent an area in which the cursor or a mouse pointer takes on special characteristics. For example, clicking the mouse on a window border can enable the user to resize the window or split the window in two.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="23114">border</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="23123">rand</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="68_178965">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A secondary contact for an Account (that is, not the primary contact).</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="178965">subcontact</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="274654">subcontact</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="68_475204">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A secondary contact for an Account (that is, not the primary contact).</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="475204">sub-contact</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="493999">subcontactpersoon</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="69_94290">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A key that represents one of the main divisions of the registry. Each predefined key is displayed in a separate Registry Editor window, with the key's name appearing in the window's title bar. For example, HKEY_CLASSES_ROOT is a predefined key.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="94290">predefined key</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="94305">vooraf gedefinieerde sleutel</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="72_92073">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A feature with which you can direct Web-based content or e-mail messages to customers based on their user profile data and their previous requests for content.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="92073">personalization</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="446859">aanpassing</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="73_55165">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The management of data transmission between two devices, such as between the CPU and a peripheral device or between nodes in a network. It ensures that the receiver can handle all the incoming data and usually depends on a set of protocols
+              established at the beginning of the transmission session that define how and when a sender may transmit. Flow control also enables slower-speed devices to communicate with higher-speed ones.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="55165">flow control</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="55174">datatransportbesturing</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="75_234934">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A button on the Comfy Cakes game interface that allows the player to select a heart decoration for their cake.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="234934">Heart Button</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="261331">knop Hartjes</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="76_39968">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A method of protecting the rights of an originator of a creative work, such as a text, a piece of music, a painting, or a computer program, through law.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="39968">copyright</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="39986">copyright</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term id="39987">auteursrecht</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="78_1803">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A document that serves as a starting point in a hypertext system. On the World Wide Web, an entry page for a set of Web pages and other files in a Web site. The home page is displayed by default when a visitor navigates to the site using a Web
+              browser.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="1803">home page</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1908799">Startpagina</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="78_1805">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A document that serves as a starting point in a hypertext system. On the World Wide Web, an entry page for a set of Web pages and other files in a Web site. The home page is displayed by default when a visitor navigates to the site using a Web
+              browser.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="1805">welcome page</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="293011">welkomstpagina</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="79_135156">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A three-dimensional system of Cartesian coordinates that includes a third (z) axis running perpendicular to the horizontal (x) and vertical (y) axes. The x-y-z coordinate system is used in computer graphics for creating models with length, breadth,
+              and depth.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="135156">x-y-z coordinate system</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="2046966">x-y-z-coördinatenstelsel</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="84_268853">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">Software that makes it possible for game control devices, such as joysticks and gamepads, to work with your computer.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="268853">DirectInput</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="321529">DirectInput</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="85_155">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A series of graphic images in GIF format, displayed sequentially in a single location to give the appearance of a moving picture.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="155">animated GIF</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="164">GIF-animatie</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="86_4355">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A simple, XML-based protocol for exchanging structured data and type information on the World Wide Web. The protocol is currently the de facto standard for XML messaging.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="4355">Simple Object Access Protocol</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="4372">Simple Object Access Protocol</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="86_4356">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A simple, XML-based protocol for exchanging structured data and type information on the World Wide Web. The protocol is currently the de facto standard for XML messaging.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="4356">SOAP</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="4373">SOAP</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="87_42652">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An error-correction protocol in the Systems Network Architecture (SNA) responsible for transmission of data between two nodes over a physical link. Supported by Microsoft Windows NT and Windows 2000, DLC is designed to provide access to IBM mainframe
+              computers and to Hewlett-Packard printers connected to the network.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="42652">Data Link Control</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="42679">Data Link Control</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="87_42653">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An error-correction protocol in the Systems Network Architecture (SNA) responsible for transmission of data between two nodes over a physical link. Supported by Microsoft Windows NT and Windows 2000, DLC is designed to provide access to IBM mainframe
+              computers and to Hewlett-Packard printers connected to the network.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="42653">DLC</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="42680">DLC</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="88_536240">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A proxy object generated by the common language runtime so that existing COM applications can use managed classes, including .NET Framework classes, transparently.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="536240">COM callable wrapper</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="543507">COM-aanroepbare wrapper</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="88_536241">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A proxy object generated by the common language runtime so that existing COM applications can use managed classes, including .NET Framework classes, transparently.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="536241">CCW</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="543508">CCW</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="89_146486">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The pointer that appears when you move the pointer to the left edge of a field in a datasheet. When the plus pointer appears, you can click to select the entire field.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="146486">plus pointer</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="146499">plusaanwijzer</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="93_148267">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A page from which you can find and go to other Internet sites or to documents on an intranet. Many search pages provide various ways to search, such as by topic, by keyword, or by matches to user queries.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="148267">search page</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="148270">zoekpagina</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="94_397174">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A mail-enabled Active Directory user that represents a user outside the Exchange organization. Each mail user has an external e-mail address. A mail user is similar to a mail contact, except that a mail user has Active Directory logon credentials and
+              can access resources.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="397174">mail user</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="413207">e-mailgebruiker</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="95_237773">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A system library used to store images that are used throughout the site collection. Provides versioning, check-in/check-out, search and visual browse capabilities.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="237773">Site Collection Images</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="331955">Siteverzameling met afbeeldingen</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="96_232546">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The factor used to convert from one unit of measure to another unit of measure, such as from centimeters to meters.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="232546">unit conversion factor</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="355772">omrekeningsfactor van de eenheid</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="98_103744">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">DNS client programs used to look up DNS name information. Resolvers can be either a small stub (a limited set of programming routines that provide basic query functionality) or larger programs that provide additional lookup DNS client functions, such
+              as caching.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="103744">resolver</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="103760">resolver</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="100_258324">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A system of depreciation that assigns depreciation methods to different classes of assets. Created by the Economic Recovery Tax Act of 1981 for U.S. tax purposes and modified by the Tax Reform Act of 1986.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="258324">Accelerated Cost Recovery System</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="355129">Accelerated Cost Recovery System</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="100_258334">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A system of depreciation that assigns depreciation methods to different classes of assets. Created by the Economic Recovery Tax Act of 1981 for U.S. tax purposes and modified by the Tax Reform Act of 1986.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="258334">ACRS</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="355146">ACRS</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="101_177911">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A query made to a DNS server in which the requester asks the server to assume the full workload and responsibility for providing a complete answer to the query. The DNS server will then use separate iterative queries to other DNS servers on behalf of
+              the requester to assist in completing an answer for the recursive query.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="177911">recursive query</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="177929">recursieve query</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="104_234833">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An organizational feature of Windows that displays a panel on the side of the desktop with shortcuts to mini-applications, also known as gadgets. The examples of such gadgets are local weather, a photo slideshow, a dictionary, news headlines, and a
+              Windows Media Player control.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="234833">Windows Sidebar</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="691991">Windows Sidebar</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="105_261524">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">Movie file format for captured video streams from a DV camera. Uses the NTSC television standard as opposed to PAL format.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="261524">NTSC DV-AVI</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="303032">NTSC DV-AVI</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="105_261525">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">Movie file format for captured video streams from a DV camera. Uses the NTSC television standard as opposed to PAL format.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="261525">DV-AVI (NTSC)</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="302936">DV-AVI (NTSC)</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="109_71701">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A chronological list of transactions, in the form of debits and credits, for a particular account or group of accounts, such as sales or cash disbursements.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="71701">journal</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="71721">dagboek</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term id="355469">journaal</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="110_312762">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A service or feature of Windows that enables licensing at the feature level; thereby broadening the distribution and licensing options for retailers, ISVs, and OEMs. New business models may include: trials, subscriptions, gifting, transfers, or
+              pay-for-use.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="312762">Software Licensing Commerce Client</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="371478">Software Licensing Commerce Client</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="110_314136">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A service or feature of Windows that enables licensing at the feature level; thereby broadening the distribution and licensing options for retailers, ISVs, and OEMs. New business models may include: trials, subscriptions, gifting, transfers, or
+              pay-for-use.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="314136">SLCC</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="425095">SLCC</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="112_93994">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The logon name (and therefore the email address) of an account that is responsible for maintaining email services on a mail server. When an account holder is having trouble with email, a message to postmaster or "postmaster@machine.org.domain.name"
+              will usually reach a human who can solve the problem.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="93994">postmaster</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1695915">postmaster</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="115_123278">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A protocol that provides communications privacy and security between two applications communicating over a network. TLS encrypts communications and enables clients to authenticate servers and, optionally, servers to authenticate clients. TLS is a
+              more secure version of the Secure Sockets Layer (SSL) protocol.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="123278">Transport Layer Security</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="123300">Transport Layer Security</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="115_123279">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A protocol that provides communications privacy and security between two applications communicating over a network. TLS encrypts communications and enables clients to authenticate servers and, optionally, servers to authenticate clients. TLS is a
+              more secure version of the Secure Sockets Layer (SSL) protocol.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="123279">TLS</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="123301">TLS</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="117_52868">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A set of characters that share common characteristics, such as stroke width and the presence or absence of serifs (short lines at the upper and lower edges of characters).</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="52868">typeface</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="52897">letterbeeld</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="119_360149">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An association established between common fields (columns) in two tables. A relationship can be one-to-one, many-to-many, or one-to-many.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="360149">relationship</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="702865">relatie</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="122_316307">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The process of temporarily storing recently accessed information in a special memory subsystem shared by two or more peer systems.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="316307">peer-caching</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="424838">peer-caching</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="124_53143">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The inability of a computer system or related device to operate reliably or to operate at all.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="53143">failure</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="53163">fout</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="126_214149">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A key that you use in some e-mail programs to enter text that is commonly used.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="214149">e-mail quick key</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="243907">e-mailsneltoets</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="129_210230">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A field in the contract line dialog where the user enters the number of allotments remaining.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="210230">Allotments Remaining</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="348203">Resterende service-eenheden</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="130_233786">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A certificate signed by the certification authority that is used to verify the authenticity of a server certificate created by the certification authority.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="233786">Root certification authority certificate</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="348361">certificaat van de basiscertificeringsinstantie</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="131_174010">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A client computer that queries DNS servers in an attempt to resolve DNS domain names. DNS clients maintain a temporary cache of resolved DNS domain names.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="174010">DNS client</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="174030">DNS Client</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="132_118094">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A file constructed with a proprietary Microsoft format, used primarily for exchanging spreadsheet data in such a way that formatting information and intercellular data value relationships are preserved.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="118094">SYLK file</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="118106">SYLK-bestand</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="133_235267">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A business document issued by a carrier to a shipper that serves as the document of title.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="235267">bill of lading</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="355201">vrachtbrief</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="135_207716">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A symbolic constant name, hexadecimal value, or mouse or keyboard equivalent that provides a hardware and language-independent method of identifying keyboard keys. Each virtual key code represents a unique keyboard key and also identifies the purpose
+              of that key. The keyboard driver must provide one or more keyboard layouts that maps keyboard scan codes to the appropriate virtual key codes.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="207716">virtual key code</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="228290">virtuele sleutelcode</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="136_557698">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A system job that detects duplicate records for one entity.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="557698">Bulk Duplicate Detection</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="565223">Bulkduplicaatdetectie</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="137_20157">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A table stored permanently in a database. Base tables are referenced by views, cursors, SQL statements, and stored procedures.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="20157">base table</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="20166">basistabel</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="141_89979">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A keyboard key (often labeled "PgDn") that is often used to move the cursor down to the top of the next page or a specific number of lines. Its function may vary in different programs.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="89979">PAGE DOWN key</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="90006">PageDown-toets</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="142_151206">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The dominant television standard in Europe and China. Phase Alternating Line (PAL) delivers 25 interlaced frames per second at 625 lines of resolution.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="151206">PAL</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="151210">PAL</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="144_35503">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A program, usually part of the operating system, that accepts typed commands from the keyboard and performs tasks as directed. The command interpreter is responsible for loading applications and directing the flow of information between applications.
+              In OS/2 and MS-DOS, the command interpreter also handles simple functions, such as moving and copying files and displaying disk directory information.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="35503">command interpreter</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="35522">opdrachtinterpreter</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="145_235054">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A filter that helps to identify fraudulent Web sites and protect against personal data theft.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="235054">Phishing Filter</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="261346">Phishingfilter</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="146_148156">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The process of measuring the amplitude of an analog signal at regular intervals for the purpose of converting the signal into a digital format.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="148156">sampling</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="148163">sampling</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="147_534967">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A treelike model of data produced by certain data mining methods. Decision trees can be used for prediction.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="534967">decision tree</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1537414">beslissingsstructuur</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="150_85966">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A format code in a desktop publishing or word processing document that keeps an element in the document, such as a figure or a caption or a label associated with the figure, in a certain position in the document. The anchored object is generally
+              attached to another element in the document.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="85966">object anchor</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="85971">objectanker</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="151_258663">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A string substitution performed on XML elements as a document passes through the pipeline.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="258663">value substitution</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="355784">waardevervanging</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="152_464712">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">Software that conceals itself as well as other resources (such as files, folders, processes, or registry entries) in order to prevent detection while it maintains access to the host computer.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="464712">rootkit</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="500258">rootkit</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="153_370820">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A feature of Windows Vista that provides e-mail client software with the increased functionality of Instant Search, and junk mail and phishing filters.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="370820">Windows Mail</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="395165">Windows Mail</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="154_543576">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A member of the Administrators group on the local server computer.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="543576">server administrator</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="2046967">serverbeheerder</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="156_662162">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An on-screen element whose location changes as the user moves the mouse. Depending on the location of the mouse pointer and the operation of the program with which it is working, the area of the screen where the mouse pointer appears serves as the
+              target for an action when the user presses one of the mouse buttons.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="662162">pointer</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="2016433">aanwijzer</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="156_81809">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An on-screen element whose location changes as the user moves the mouse. Depending on the location of the mouse pointer and the operation of the program with which it is working, the area of the screen where the mouse pointer appears serves as the
+              target for an action when the user presses one of the mouse buttons.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="81809">mouse pointer</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="81828">muisaanwijzer</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="157_211567">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A set of tools that enables corporate administrators, ISPs, and ICPs to create, distribute, and manage customized Internet Explorer packages across an organization. The IEAK contains the Internet Explorer Customization Wizard, the IEAK Profile
+              Manager and the IEAK Toolkit.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="211567">Internet Explorer Administration Kit</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="238824">Internet Explorer Administration Kit</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="157_211568">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A set of tools that enables corporate administrators, ISPs, and ICPs to create, distribute, and manage customized Internet Explorer packages across an organization. The IEAK contains the Internet Explorer Customization Wizard, the IEAK Profile
+              Manager and the IEAK Toolkit.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="211568">IEAK</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="238825">IEAK</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="159_109673">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A graphical control point of an object that provides direct manipulation support for operations of that object, such as moving, sizing, or scaling.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="109673">selection handle</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="109678">selectiegreep</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="160_34886">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A graph that uses vertical bars to show data changes over a period of time or illustrate comparisons among items.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="34886">column chart</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="34910">kolomdiagram</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="160_34887">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A graph that uses vertical bars to show data changes over a period of time or illustrate comparisons among items.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="34887">column graph</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="34910">kolomdiagram</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="162_419949">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A line item in an invoice containing detailed billing information.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="419949">invoice product</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="462039">factuurproduct</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="163_311257">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The user preferences for the formatting of dates, currencies, numbers, and so on. The user locale is a per-user setting, and does not require the user to restart or to log on or log off the computer.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="311257">user locale</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="318251">landinstellingen voor de gebruiker</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="164_185178">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The item on the right-click menu for a participant in a conversation that reconnects the selected participant to the current conversation after disconnection.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="185178">Reestablish Instant Message Conversation…</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="346803">Chatsessie herstellen...</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="166_38019">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A series of arguments that define the location of a resource and how to connect to it.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="38019">connection string</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="38025">verbindingsreeks</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term id="651590">connection string</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="170_502935">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A part of the user interface dedicated to a particular purpose, such as "instant message area."</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="502935">area</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="515181">gebied</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="173_537619">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The behavior and state that a class provides, which is matched with what a client of that class can expect to hold. A contract is expressed partly by the signatures for all public fields, methods, properties, and events of that class. This is
+              augmented by a description (usually in simple descriptive text) of what each field or property represents, together with what each method does. In the .NET Framework add-in programming model, a non-versioning interface that defines the methods and
+              specifies the data types for transferring data over the communication pipeline between the host and the add-in. The contract is in the middle of the communication pipeline between the add-in and the host. The contract assembly is loaded into the
+              application domains of both the add-in and the host.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="537619">contract</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="550543">contract</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="174_138672">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A hierarchical organization of media clips. You can create your own clip collections, import clip collections, or add, move, or copy clips from one collection to another.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="138672">clip collection</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="138688">illustratieverzameling</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="176_8890">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A data access interface that communicates with OLE DB-compliant data sources to connect to, retrieve, manipulate, and update data.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="8890">ActiveX Data Objects</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="8907">ActiveX-gegevensobjecten</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="176_8891">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A data access interface that communicates with OLE DB-compliant data sources to connect to, retrieve, manipulate, and update data.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="8891">ADO</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="270274">ADO</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="177_203243">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A reporting tool that alerts administrators to current disk use trends, as well as to attempts by certain users or groups to save unauthorized files.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="203243">storage report</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="232801">opslagrapport</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="181_233795">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A label for a field that contains the value for "shipping method" on the Create New Address screen in the Account form.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="233795">Ship method</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="348370">Verzendwijze</term>
+              <termNote type="partOfSpeech">Other</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="182_152981">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The Ethernet standard for local area networks using twisted-pair cable carrying data at 10 megabits per second (Mbps).</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="152981">10baseT</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="152999">10baseT</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="183_122023">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A keyboard key that alternates between turning a particular operation, function, or mode on or off.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="122023">toggle key</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="122044">wisseltoets</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="185_5222">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The process by which a user obtains a higher level of privilege than that for which he has been authorized. A malicious user may use elevation of privilege as a means to compromise or destroy a system, or to access unauthorized information.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="5222">elevation of privilege</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="5225">onrechtmatige uitbreiding van toegangsrechten</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="185_1512431">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The process by which a user obtains a higher level of privilege than that for which he has been authorized. A malicious user may use elevation of privilege as a means to compromise or destroy a system, or to access unauthorized information.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="1512431">elevation</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="2046968">verhoging</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="186_3712">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">To change to a newer, and/or more powerful or sophisticated version of a product.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="3712">upgrade</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="3721">upgrade uitvoeren</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="187_263053">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A server component that coordinates the output from all the system health validators (SHVs) and determines whether Quarantine Enforcement Server (QES) components should isolate a client from the network or not based on health policy compliance.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="263053">IAS Server</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="321468">IAS-server</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="188_185761">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A button on in the Transfer Call dialog box that reconnects the user to the call that is currently on hold.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="185761">Retrieve</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="346813">Uit de wachtstand halen</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="188_185762">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A button on in the Transfer Call dialog box that reconnects the user to the call that is currently on hold.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="185762">Retrieve Call From Hold</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="346814">Gesprek uit de wachtstand halen</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+          <ntig>
+            <termGrp>
+              <term id="431683">Oproep uit de wachtstand halen</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="189_237268">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A view that lists all the activities with a status of Closed that belong to the mobile user.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="237268">My Closed</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="348326">Mijn afgesloten</term>
+              <termNote type="partOfSpeech">Adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="190_176039">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An identifier associated with each address card in the Contacts database. The position index indicates the address card's position relative to the other address cards in the database. A position index is distinct from an object identifier.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="176039">position index</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="176056">plaatsingsindex</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="195_307400">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A profile that allows the user to print documents wirelessly to a Bluetooth-enabled printer, including a printer located in another room.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="307400">Hardcopy Cable Replacement Profile</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="424979">Hardcopy Cable Replacement Profile</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="195_307408">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A profile that allows the user to print documents wirelessly to a Bluetooth-enabled printer, including a printer located in another room.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="307408">HCRP</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="424978">HCRP</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="197_93813">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An orientation where the long dimension of a rectangular area (for example, screen or paper) is vertical.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="93813">portrait orientation</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="93844">staande richting</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="197_93814">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An orientation where the long dimension of a rectangular area (for example, screen or paper) is vertical.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="93814">portrait</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="93843">staand</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="198_112365">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">Any combination of keys that must be pressed simultaneously.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="112365">shortcut key</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="112374">sneltoets</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="198_318149">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">Any combination of keys that must be pressed simultaneously.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="318149">key combination</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="348747">toetsencombinatie</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="201_211826">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The online analytical processing (OLAP) equivalent of an SQL query.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="211826">MDX formula</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="564851">MDX-formule</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="202_30582">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A set of characters treated as a unit and interpreted by a computer as text rather than numbers. A character string can contain any sequence of elements from a given character set, such as letters, numbers, control characters, and extended ASCII
+              characters.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="30582">character string</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="30589">tekenreeks</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="203_442">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A digital document that is commonly used for authentication and to help secure information on a network. A certificate binds a public key to an entity that holds the corresponding private key. Certificates are digitally signed by the certification
+              authority that issues them, and they can be issued for a user, a computer, or a service.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="442">certificate</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="457">certificaat</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="203_443">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A digital document that is commonly used for authentication and to help secure information on a network. A certificate binds a public key to an entity that holds the corresponding private key. Certificates are digitally signed by the certification
+              authority that issues them, and they can be issued for a user, a computer, or a service.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="443">digital certificate</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="458">digitaal certificaat</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="203_761730">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A digital document that is commonly used for authentication and to help secure information on a network. A certificate binds a public key to an entity that holds the corresponding private key. Certificates are digitally signed by the certification
+              authority that issues them, and they can be issued for a user, a computer, or a service.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="761730">security certificate</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1043474">beveiligingscertificaat</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="204_237285">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A graphical bar (think bar charts) displayed in each cell. The length of the bar is related to the cell’s value.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="237285">data bar</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="296679">gegevensbalk</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="205_6904">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">To gain entry to memory in order to read or write data.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="6904">access</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="6914">toegang verkrijgen tot</term>
+              <termNote type="partOfSpeech">Verb</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="207_347908">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A service that hosts the WDI (Windows Diagnostic Infrastructure) components that need to run in Local Service context and enables problem detection, troubleshooting and resolution for Windows components.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="347908">Diagnostic Service Host</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="424987">Diagnostic Service Host</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="208_33569">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A color model for commercial printing that produces a wide range of colors by mixing varying percentages of cyan, magenta, yellow, and black inks.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="33569">CMYK</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="33592">CMYK</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="208_33570">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A color model for commercial printing that produces a wide range of colors by mixing varying percentages of cyan, magenta, yellow, and black inks.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="33570">cyan-magenta-yellow-black</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="33592">CMYK</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="209_40581">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A binary file that a programmer can load into a debugger to analyze the cause of the crash. It contains the contents of the memory when the crash occurred.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="40581">crash dump</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="40587">crashdump</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="209_640753">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A binary file that a programmer can load into a debugger to analyze the cause of the crash. It contains the contents of the memory when the crash occurred.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="640753">dump</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1103953">dump</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="211_269346">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">Software that allows Windows-based programs to use networking protocols such as TCP/IP.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="269346">Winsock proxy client</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="321568">Winsock-proxyclient</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="215_413969">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A feature of Microsoft SQL Server that supports online analytical processing (OLAP) and data mining for business intelligence applications. Analysis Services organizes data from a data warehouse into cubes with precalculated aggregation data to
+              provide rapid answers to complex analytical queries.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="413969">Analysis Services</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="564867">Analysis Services</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="215_169528">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A feature of Microsoft SQL Server that supports online analytical processing (OLAP) and data mining for business intelligence applications. Analysis Services organizes data from a data warehouse into cubes with precalculated aggregation data to
+              provide rapid answers to complex analytical queries.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="169528">SQL Server Analysis Services</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="651730">SQL Server Analysis Services</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="215_169529">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A feature of Microsoft SQL Server that supports online analytical processing (OLAP) and data mining for business intelligence applications. Analysis Services organizes data from a data warehouse into cubes with precalculated aggregation data to
+              provide rapid answers to complex analytical queries.
+            </descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="169529">SSAS</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="651732">SSAS</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="218_5773">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A device that does not use (PCI), (USB), 1394, or later physical interconnect, but is fully (PnP) compliant. A legacy device cannot be configured or managed by using either mechanisms or PnP methods to specify resource configurations.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="5773">legacy device</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="5788">verouderd apparaat</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="220_31883">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A module that can contain the definition for a new object. Each instance of a class creates a new object. Procedures defined in the module become properties and methods of the object.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="31883">class module</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="31890">klassemodule</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="223_70091">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A signal sent by a device to get the attention of the processor when the device is ready to accept or send information.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="70091">interrupt request</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="70112">interruptaanvraag</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="223_70092">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A signal sent by a device to get the attention of the processor when the device is ready to accept or send information.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="70092">IRQ</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="293009">IRQ</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="223_321307">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">A signal sent by a device to get the attention of the processor when the device is ready to accept or send information.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="321307">interrupt</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="364920">interrupt</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="224_371976">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The process of combining information from a data source with a template to create pages that display multiple records per page.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="371976">catalog merge</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="702521">catalogussamenvoeging</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="228_416905">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The maximum amount of data loss, measured in time, that is acceptable to business requirements.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="416905">data loss tolerance</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="2064279">gegevensverliestolerantie</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="229_340136">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">An option that unlocks the keypad after it was locked.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="340136">Unlock</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="1043985">Ontgrendelen</term>
+              <termNote type="partOfSpeech">Proper Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="230_416922">
+        <langSet xml:lang="en-US">
+          <descripGrp>
+            <descrip type="definition">The collection of recurring job definitions and schedules associated with a protection group.</descrip>
+          </descripGrp>
+          <ntig>
+            <termGrp>
+              <term id="416922">protection plan</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="nl-nl">
+          <ntig>
+            <termGrp>
+              <term id="2064313">beveiligingsplan</term>
+              <termNote type="partOfSpeech">Noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>
