@@ -7,6 +7,18 @@ const through2 = require('through2');
 const program = require('commander');
 const packageJson = require('./package.json');
 
+// Output schema
+// {
+// 	termID: string,							// req
+// 	subjectFields: [ string ],
+// 	note: string,
+// 	de: [ string ],
+// 	nl: [ string ],
+// 	en: [ string ],
+// 	xy: [ string ] 							// etc.
+// }
+
+
 //
 // Command line interface
 //
@@ -45,16 +57,25 @@ const tbx2obj = function (chunk, enc, callback) {
 		const id = $(termEntry).attr('id');
 		const langSet = $(termEntry).find('langSet');
 
+		const descrip = $(termEntry).find('descrip');
+		const descripType = $(descrip).attr('type');
+		const descripText = $(descrip).text();
+
+		console.log(id);
+		console.log(descripType + ": " + descripText);
+
 		langSet.each((i, langSetEntry) => {
 			const lang = $(langSetEntry).attr('xml:lang');
 			const term = $(langSetEntry).find('term').text();
-
+			const descrip = $(langSetEntry).find('descrip');
+			const descripType = $(descrip).attr('type');
+			const descripText = $(descrip).text();
 
 			console.log(lang);
 			console.log(term);
+			console.log(descripType + ": " + descripText);
 		})
-
-		console.log(id);
+		console.log('\n');
 	});
 	callback()
 }
