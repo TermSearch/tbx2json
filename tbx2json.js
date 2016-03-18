@@ -18,8 +18,6 @@ const packageJson = require('./package.json');
 // 	en: [ string ],
 // 	xy: [ string ] 							// etc.
 // }
-
-
 //
 // Command line interface
 //
@@ -27,7 +25,7 @@ const packageJson = require('./package.json');
 program
 	.version(packageJson.version)
 	.option('-e, --encoding <encoding>', 'encoding of tbx file, e.g. utf16le. Default is utf8')
-	.option('-t --tbxtype <tbxType>', 'tbx type, either TBX-Default or TBX')
+	.option('-t, --tbxtype <tbxtype>', 'tbx type, either TBX-Default or TBX')
 	.on('--help', function () {
 		console.log('  Examples:');
 		console.log('');
@@ -39,7 +37,7 @@ program
 const encoding = program.encoding || 'utf8'; // Default encoding = utf8
 // TBX-Default uses tig
 // TBX uses ntig
-const tbxType = program.tbxType || 'TBX-Default';
+const tbxType = program.tbxtype || 'TBX-Default';
 
 //
 // tbx2json
@@ -100,6 +98,20 @@ const tbx2obj = function (chunk, enc, callback) {
 	callback()
 }
 
+// Normalize the JSON object
+const normalize = function(chunk, enc, callback) {
+	const o = {};
+	// Remove all variants from languages code
+	// I.e. nl-nl becomes nl and en-US become en
+	Object.keys(chunk).forEach(function(key, index){
+		let newKey = key;
+		if (key.charAt(2) === '-') newKey = key.slice(0, 2);
+		o[newKey] = chunk[key];
+	})
+	this.push(o);
+	callback();
+}
+
 // Converts Javascript objects to valid JSON (enclosed in an array [])
 const obj2json = function (chunk, enc, callback) {
 	if (begin) this.push('[');
@@ -115,6 +127,7 @@ const obj2json = function (chunk, enc, callback) {
 
 process.stdin.setEncoding(encoding)
 	.pipe(through2.obj(tbx2obj))
+	.pipe(through2.obj(normalize))
 	.pipe(through2.obj(obj2json))
 	.on('end', function () {
 		process.stdout.write(']');
