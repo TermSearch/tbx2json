@@ -26,7 +26,8 @@ const packageJson = require('./package.json');
 
 program
 	.version(packageJson.version)
-	// .option('-e, --encoding <encoding>', 'encoding of tmx file, e.g. utf16le. Default is utf8')
+	.option('-e, --encoding <encoding>', 'encoding of tbx file, e.g. utf16le. Default is utf8')
+	.option('-t --tbxtype <tbxType>', 'tbx type, either TBX-Default or TBX')
 	.on('--help', function () {
 		console.log('  Examples:');
 		console.log('');
@@ -35,7 +36,10 @@ program
 	})
 	.parse(process.argv);
 
-const encoding = 'utf8'; // Default encoding = utf8
+const encoding = program.encoding || 'utf8'; // Default encoding = utf8
+// TBX-Default uses tig
+// TBX uses ntig
+const tbxType = program.tbxType || 'TBX-Default';
 
 //
 // tbx2json
@@ -44,42 +48,54 @@ const encoding = 'utf8'; // Default encoding = utf8
 // Booleans help write valid JSON
 // Write opening [ on begin
 // Write closing ] on end
-var end = false;
-var begin = true;
+let end = false;
+let begin = true;
 
 // Converts tmx (xml format) to Javascript objects
 const tbx2obj = function (chunk, enc, callback) {
 	let $ = cheerio.load(chunk, {
 		xmlMode: true
 	});
+
 	const termEntries = $('termEntry');
 	termEntries.each((i, termEntry) => {
+		let o = {};
 
-		const id = $(termEntry).attr('id');
-		const langSet = $(termEntry).find('langSet');
+		// Write to output object
+		o.termID = $(termEntry).attr('id');
+
+		// Contains descriptive information about termEntry
 		const descrip = $(termEntry).find('descrip');
+		// Type could be subjectField or definition
 		const descripType = $(descrip).attr('type');
+		// The text contained in the type xml tags
 		const descripText = $(descrip).text();
+		o[descripType] = descripText;
 
-		console.log("termID: " + id);
-		console.log(descripType + ": " + descripText);
+		// Find notes
+		const note = $(termEntry).find('note');
+		// If found, write note text to output object
+		if (note.length != 0) o.note = $(note).text();
 
+		const langSet = $(termEntry).find('langSet');
 		langSet.each((i, langSetEntry) => {
 			const lang = $(langSetEntry).attr('xml:lang');
-			const tig = $(langSetEntry).find('tig');
-			const ntig = $(langSetEntry).find('ntig');
-			let tigs = false;
 
-			if (tig.length != 0) tigs = tig;
-			if (ntig.length != 0) tigs = ntig;
+			// Create an empty array for all found language codes
+			o[lang] = [];
 
-			if (tigs) tigs.each( (i, tigEntry) => {
+			let tig;
+			if (tbxType === 'TBX-Default') tig = $(langSetEntry).find('tig');
+			if (tbxType === 'TBX') tig = $(langSetEntry).find('ntig');
+
+			// if tig contains terms map map them to the output object o
+			if (tig.length !=0 ) tig.each( (i, tigEntry) => {
 				const term = $(tigEntry).find('term').text();
-				console.log(lang + ": " + term);
+				o[lang].push(term);
 			});
 
 		})
-		console.log('\n');
+		this.push(o);
 	});
 	callback()
 }
@@ -99,7 +115,7 @@ const obj2json = function (chunk, enc, callback) {
 
 process.stdin.setEncoding(encoding)
 	.pipe(through2.obj(tbx2obj))
-	// .pipe(through2.obj(obj2json))
+	.pipe(through2.obj(obj2json))
 	.on('end', function () {
 		process.stdout.write(']');
 	})
