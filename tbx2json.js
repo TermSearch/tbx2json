@@ -10,7 +10,7 @@ const packageJson = require('./package.json');
 // Output schema
 // {
 // 	termID: string,							// req
-// 	subjectFields: [ string ],
+// 	subjectField: string,				// "00, 10, etc."
 // 	note: string,
 //	definition: string,
 // 	de: [ string ],
@@ -18,6 +18,8 @@ const packageJson = require('./package.json');
 // 	en: [ string ],
 // 	xy: [ string ] 							// etc.
 // }
+
+
 //
 // Command line interface
 //
@@ -40,16 +42,12 @@ const encoding = program.encoding || 'utf8'; // Default encoding = utf8
 const tbxType = program.tbxtype || 'TBX-Default';
 
 //
-// tbx2json
+// tbx2json library
 //
 
-// Booleans help write valid JSON
-// Write opening [ on begin
-// Write closing ] on end
-let end = false;
-let begin = true;
-
-// Converts tmx (xml format) to Javascript objects
+//
+// Converts tbx (xml format) to a Javascript object
+//
 const tbx2obj = function (chunk, enc, callback) {
 	let $ = cheerio.load(chunk, {
 		xmlMode: true
@@ -98,7 +96,9 @@ const tbx2obj = function (chunk, enc, callback) {
 	callback()
 }
 
+//
 // Normalize the JSON object
+//
 const normalize = function(chunk, enc, callback) {
 	const o = {};
 	// Remove all variants from languages code
@@ -112,7 +112,15 @@ const normalize = function(chunk, enc, callback) {
 	callback();
 }
 
+//
 // Converts Javascript objects to valid JSON (enclosed in an array [])
+//
+
+// Booleans help write valid JSON
+// Write opening [ on begin
+// Write closing ] on end
+let end = false;
+let begin = true;
 const obj2json = function (chunk, enc, callback) {
 	if (begin) this.push('[');
 	if (!begin) this.push(',\n');
@@ -124,7 +132,6 @@ const obj2json = function (chunk, enc, callback) {
 //
 // Glueing all streams together
 //
-
 process.stdin.setEncoding(encoding)
 	.pipe(through2.obj(tbx2obj))
 	.pipe(through2.obj(normalize))
