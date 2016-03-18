@@ -1,0 +1,4949 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<martif type="TBX-Default" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <sourceDesc>
+        <p>This is a TBX file downloaded from the IATE website. Address any enquiries to iate@cdt.europa.eu.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCS.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="IATE-14">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>Agenție de aprovizionare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-84">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="bg">
+          <tig>
+            <term>компетенции на държави членове</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>příslušnost členských států</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="da">
+          <tig>
+            <term>medlemsstatskompetence</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Zuständigkeit der Mitgliedstaaten</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="el">
+          <tig>
+            <term>αρμοδιότητα των κρατών μελών</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>competence of the Member States</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>competencias de los Estados miembros</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="et">
+          <tig>
+            <term>liikmesriikide pädevus</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>jäsenvaltioiden toimivalta</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>compétence des États membres</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ga">
+          <tig>
+            <term>inniúlacht na mBallstát</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="hu">
+          <tig>
+            <term>tagállami hatáskör</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>competenza degli Stati membri</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="lt">
+          <tig>
+            <term>valstybių narių kompetencija</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="lv">
+          <tig>
+            <term>dalībvalstu kompetence</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>bevoegdheid van de lidstaten</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>kompetencje państw członkowskich</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>competência dos Estados-Membros</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>competența statelor membre ale Uniunii Europene</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sk">
+          <tig>
+            <term>právomoci členských štátov</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sl">
+          <tig>
+            <term>pristojnost držav članic</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>medlemsstaternas behörighet</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-113">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>a doua Conventie Lome</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-127">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>sociální ustanovení</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>postanowienia dotyczące zagadnień społecznych</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-171">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>decădere</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-190">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>výklad</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="hu">
+          <tig>
+            <term>értelmezés</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>wykładnia</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-205">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="bg">
+          <tig>
+            <term>свободно движение на работници</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>volný pohyb pracovníků</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>swoboda przepływu pracowników</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>libera circulație a lucrătorilor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sk">
+          <tig>
+            <term>sloboda pohybu pracovníkov</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-254">
+        <descripGrp>
+          <descrip type="subjectField">2006006</descrip>
+        </descripGrp>
+        <langSet xml:lang="en">
+          <tig>
+            <term>award of public works contracts</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>passation des marchés publics de travaux</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-290">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>ochrana veřejného zdraví</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="da">
+          <tig>
+            <term>Bescherming van de volksgezondheid</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Schutz der öffentlichen Gesundheit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>public health protection</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>protección de la salud pública</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>kansanterveyden suojelu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>protection de la santé publique</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="hu">
+          <tig>
+            <term>Közegészség-védelem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>tutela della salute pubblica</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="lt">
+          <tig>
+            <term>visuomenės sveikatos apsauga</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="lv">
+          <tig>
+            <term>sabiedrības veselības aizsardzība</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>bescherming van de volksgezondheid</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>ochrona zdrowia publicznego</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>proteção da saúde pública</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sl">
+          <tig>
+            <term>varovanje javnega zdravja</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-301">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="bg">
+          <tig>
+            <term>сближаване на законодателството</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>zbliżanie ustawodawstw</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>apropierea legislațiilor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-314">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="bg">
+          <tig>
+            <term>договорна отговорност</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>smluvní odpovědnost</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="hu">
+          <tig>
+            <term>szerződésben vállalt kötelezettség</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-367">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="bg">
+          <tig>
+            <term>анулирам</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>отменям</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>прекратявам</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>abrogare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-372">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>dohody mezi podniky</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>porozumienia między przedsiębiorstwami</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-388">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>aplicarea dreptului comunitar</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>implementarea națională a dreptului comunitar</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-391">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>aprovizionare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-508">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="bg">
+          <tig>
+            <term>държави-членки</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>państwa członkowskie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-643">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>publicare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-662">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>množstevní omezení vývozu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="da">
+          <tig>
+            <term>kvantitative restriktioner ved eksport</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>mengenmäßigen Ausfuhrbeschränkungen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>quantitative restriction on export</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>restriccione cuantitativa a la exportación</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>restriction quantitative à l'exportation</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>restrizioni quantitative all'esportazione</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>kvantitative restriktioner ved eksport</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sk">
+          <tig>
+            <term>množstvové obmedzenia pri vývoze</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sl">
+          <tig>
+            <term>količinske omejitve pri izvozu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-782">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>gwarancje prawne</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>środki ochrony prawnej</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sk">
+          <tig>
+            <term>právne záruky</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-801">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Eintragungshindernisse</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>grounds for refusal</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-1105">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="mt">
+          <tig>
+            <term>regoli komuni dwar l-esportazzjoni</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sl">
+          <tig>
+            <term>skupna pravila za izvoz</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-1299">
+        <descripGrp>
+          <descrip type="subjectField">1011, 2011</descrip>
+        </descripGrp>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>početně zjištěná vývozní cena</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>CEP</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>constructed export price</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>prix à l'exportation construit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ga">
+          <tig>
+            <term>praghas onnmhairiúcháin comhdhéanta</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="hu">
+          <tig>
+            <term>számtanilag képzett exportár</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-1326">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Sonderregelung für Reisebüros</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="el">
+          <tig>
+            <term>ειδικό καθεστώς πρακτορείων ταξιδιών</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+          <tig>
+            <term>ειδικό καθεστώς των πρακτορείων ταξιδίων</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>special scheme for travel agents</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>el régimen especial de las agencias de viajes</term>
+            <termNote type="termType">phraseologicalUnit</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="et">
+          <tig>
+            <term>reisibüroode erikord</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>régime particulier des agences de voyages</term>
+            <termNote type="termType">phraseologicalUnit</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ga">
+          <tig>
+            <term>scéim speisialta do ghníomhairí taistil</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="hu">
+          <tig>
+            <term>az utazási irodákra vonatkozó különös szabályozás</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="lv">
+          <tig>
+            <term>īpašs režīms ceļojumu aģentūrām</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sl">
+          <tig>
+            <term>posebna ureditev za potovalne agencije</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>särskild ordning för resebyråer</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-1637">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>asistență judiciară</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-1638">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>asociere de întreprinderi</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-1702">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Erwerbslose</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-2818">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="bg">
+          <tig>
+            <term>нормативни актове</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>předpisy</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Verwaltungsvorschriften</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>regulations</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>disposiciones reglamentarias</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>règlements</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>disposizioni regolamentari</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>akty wykonawcze</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>disposições regulamentares</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>norme administrative</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-4059">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>arbitraj comercial internațional</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-5714">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>procedură prealabilă</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>procedură preliminară</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-5861">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="et">
+          <tig>
+            <term>kombineeritud nomenklatuuri tõlgendamise üldreeglid</term>
+            <termNote type="termType">phraseologicalUnit</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>ogólne reguły interpretacji nomenklatury Wspólnej Taryfy Celnej/ Nomenklatury Scalonej</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-6242">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>IP</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sl">
+          <tig>
+            <term>plačilni nalog</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-6571">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="bg">
+          <tig>
+            <term>разпределение на правомощия</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-7072">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="bg">
+          <tig>
+            <term>Договор за ЕОАЕ</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sk">
+          <tig>
+            <term>Zmluva o ESAE</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-7128">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="en">
+          <tig>
+            <term>company name</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>nombre comercial</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-7286">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>spotřební daně</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>akcyza</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-7769">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Convenio de 1973 referente al reconocimiento y a la ejecución de las resoluciones relativas a las obligaciones alimenticias, hecho en La Haya</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-8185">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>ajutor de restructurare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-8467">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>výběrový postup</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="da">
+          <tig>
+            <term>evalueringsprocedure</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="el">
+          <tig>
+            <term>διαδικασία αξιολόγησης</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="et">
+          <tig>
+            <term>hindamine</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="lt">
+          <tig>
+            <term>vertinimo procedūra</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="mt">
+          <tig>
+            <term>proċedura ta' evalwazzjoni</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>procedura oceny</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sl">
+          <tig>
+            <term>postopek vrednotenja</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>utvärdering</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-19426">
+        <descripGrp>
+          <descrip type="subjectField">2446</descrip>
+        </descripGrp>
+        <langSet xml:lang="es">
+          <tig>
+            <term>operación por la que se repercute el impuesto</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>handeling in een later stadium</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>in een later stadium verrichte handeling</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>outputhandeling</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-19427">
+        <descripGrp>
+          <descrip type="subjectField">2446</descrip>
+        </descripGrp>
+        <langSet xml:lang="es">
+          <tig>
+            <term>operación por la que se soporta el impuesto</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>handeling in een eerder stadium</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>in een eerder stadium verrichte handeling</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>inputhandeling</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21139">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>friske frugter og grøntsager</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>frisches Obst und Gemüse</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="el">
+          <tig>
+            <term>νωπά φρούτα και λαχανικά</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>fresh fruits and vegetables</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>frutas y legumbres frescas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>fruits et légumes frais</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>frutta e ortaggi freschi</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>verse vruchten en groenten</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>frutos e legumes frescos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>färska frukter och grönsaker</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21562">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>metan</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Methan</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>methane</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>metano</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>méthane</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>metano</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>methaan</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>metano</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>metan</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21563">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>kemiske præparater til forhindring af meldug</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>chemische Erzeugnisse zur Verhütung von Mehltau</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>chemical preparations to prevent mildew</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>productos químicos para la protección contra el mildeu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>produits chimiques pour la protection contre le mildiou</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>prodotti chimici per la protezione contro la peronospora</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>chemische produkten ter bescherming tegen meeldauw</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>produtos químicos para a proteção contra o míldio</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>kemiska preparat för skydd mot bladmögel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21564">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>mineralsyre</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>uorganiske syrer</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Mineralsäuren</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>mineral acids</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>ácidos minerales</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>acides minéraux</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>acidi minerali</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>mineraalzuren</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>ácidos minerais</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>mineralsyror</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21565">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>salte til industrielle formål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Salze für gewerbliche Zwecke</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>salts for industrial purposes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>sales para uso industrial</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>sels à usage industriel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>sali per uso industriale</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>zouten voor industrieel gebruik</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>sais para uso industrial</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>salter för industriella ändamål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21567">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>naftalin</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Naphtalin</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>naphtalene</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>naftalina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>naphtalène</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>naftalene</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>naftaleen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>naftalina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>naftalin</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21604">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>fotografiske sensibilisatorer</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>photographische Sensibilisatoren</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>photographic sensitizers</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>sensibilizadores fotográficos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>sensibilisateurs photographiques</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>sensibilizzatori fotografici</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>fotografische sensibilisatoren</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>sensibilizadores fotográficos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>sensibiliseringsmedel, fotografiska</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21662">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>spinel [kemiske præparater]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Spinell [chemisches Erzeugnis]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>spinel [chemical preparations]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>espinelas [productos químicos]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>spinelles [produits chimiques]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>spinelli [prodotti chimici]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>spinellen [chemische produkten]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>espinelas [produtos químicos]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>spinell [kem.prep.]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21663">
+        <descripGrp>
+          <descrip type="subjectField">6811</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>stearinsyre</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Stearinsäure</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>stearic acid</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>ácido esteárico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>acide stéarique</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>acido stearico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>stearinezuur</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>ácido esteárico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>stearinsyra</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21665">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>sod til industrielle formål og til landbrugsformål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Ruß für gewerbliche oder für landwirtschaftliche Zwecke</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>soot for industrial or agricultural purposes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>hollín para uso industrial o agrícola</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>suie à usage industriel ou agricole</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>fuliggine per uso industriale o agricolo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>roet voor industrieel of landbouwkundig gebruik</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>fuligem para uso industrial ou agrícola</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>sot för industriella och jordbruksändamål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21795">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>kamfer til industrielle formål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21796">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>kemiske forstærkningsmidler til papir</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21797">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>kemiske forstærkningsmidler til gummi</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21798">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>humus til overfladegødning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21799">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>magnetisk væske til industrielle formål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21800">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>servostyringsvæske</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21801">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>transmissionsvæske</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21998">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>lakfjerningspræparater</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Lackentfernungsmittel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>lacquer-removing preparations</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>productos para quitar las lacas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>produits pour enlever les laques</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>prodotti per togliere le lacche</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>produkten voor het verwijderen van lakken</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>produtos para tirar as lacas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>produtos para tirar vernizes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>lackborttagningsmedel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-21999">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>smergellærred</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Schmirgelleinen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>emery cloth</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>tela esmerilada</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>toile émeri</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>tela smeriglio</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>amarillinnen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>tela esmeril</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>smärgelduk</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22000">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>farvefjernepræparater</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Farbentfernungsmittel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>color-removing preparations</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>colour-removing preparations</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>productos para quitar los tintes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>produits pour enlever les teintures</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>prodotti per togliere le tinture</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>kleurstofverwijderende middelen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>produtos para tirar as tinturas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>färgborttagningsmedel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22026">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>heliotropessens</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Heliotropin</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>heliotropine</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>heliotropina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>héliotropine</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>eliotropina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>heliotropine</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>heliotropina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>heliotropin</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22028">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>jasminolie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Jasminöl</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>jasmine oil</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>aceite de jazmín</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>huile de jasmin</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>olio di gelsomino</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>jasmijnolie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>óleo de jasmim</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>jasminolja</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22029">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>lavendelolie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Lavendelöl</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>lavender oil</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>aceite de lavanda</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>huile de lavande</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>olio di lavanda</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>lavendelolie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>óleo de alfazema</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>lavendelolja</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22030">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>olier til rensningsformål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>renseolier</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Reinigungsöle</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Öle für Reinigungszwecke</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>oils for cleaning purposes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>aceites de limpieza</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>huiles de nettoyage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>oli per pulire</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>reinigingsoliën</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>óleos de limpeza</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>oljor för rengöringsändamål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22031">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>olier til parfumefremstilling</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Parfümerieöle</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>oils for perfumes and scents</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>aceites para perfumería</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>huiles pour la parfumerie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>oli per la profumeria</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>oliën voor de parfumerie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>óleos para a perfumaria</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>parfymoljor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22032">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>rosenolie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Rosenöl</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>rose oil</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>aceite de rosa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>huile de rose</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>olio di rose</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>rozenolie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>óleo de rosa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>rosenolja</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22037">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>vaskemidler</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Waschmittel [Wäsche]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bleaching preparations [laundry]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>laundry preparations</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>washing preparations</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>lejías</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>productos de blanqueo [colada]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>productos de lavado</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>lessives</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>produits de blanchiment [lessive]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>produits de lavage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>liscivie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>prodotti di sbianca [bucato]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>prodotti per il lavaggio</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>bleekmiddelen voor de was</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>wasmiddelen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>lixívias</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>produtos de branqueamento [lexívia]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>tvättmedel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22038">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>toiletpræparater</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Toilettemittel [Körperpflege]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>toiletries</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>productos de tocador</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>produits de toilette</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>prodotti per la toilette</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>produkten voor de toiletverzorging</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>produtos de toilette</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>toalettartiklar, kemisktekniska</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22039">
+        <descripGrp>
+          <descrip type="subjectField">48</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>rensemidler til forruder</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Reinigungsflüssigkeit für Windschutzscheiben</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>windscreen cleaning liquids</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>windshield cleaning liquids</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>líquidos para lava parabrisas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>líquidos para limpiaparabrisas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>liquides pour lave-glaces</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>liquidi per lava cristalli</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>liquidi per lavacristalli</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>vloeistoffen voor het reinigen van ruiten van voertuigen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>líquidos para lava-vidros</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>vindrutor, rengöringsmedel för</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22040">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>præparater til glatning [stivelse]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Glättmittel [Wäschesatiniermittel]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>smoothing preparations [starching]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>productos para alisar</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>produits pour lisser</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>prodotti per lisciare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>polijstmiddelen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>produtos para alisar</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>glättningsmedel [stärkning]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22041">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>pebermynteessens [æterisk olie]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Pfefferminzessenz</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>mint essence [essential oil]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>esencia de menta</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>essence de menthe</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>essenza di menta</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>pepermuntolie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>essência de hortelã-pimenta</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>pepparmyntessens [luktämne]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22063">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>lugteposer til parfumering af linned</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Duftstoffe für die Wäsche</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sachets for perfuming linen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>productos para perfumar la ropa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>produits pour parfumer le linge</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>prodotti per profumare la biancheria</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>produkten voor het parfumeren van wasgoed</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>produtos para perfumar a roupa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>luktpåsar för parfymering av linne</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22064">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>safrol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Safrol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>safrol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>safrol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>safrol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>safrolo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>safrol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>safrol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>safrol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22065">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>toiletsæbe i stykform</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Toilettenseifen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cakes of soap</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>cakes of toilet soap</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>pastillas de jabón</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>savonnettes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>saponette</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>zeep [stukken]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>sabonetes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>toalettvålar</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22066">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>sodauld</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Natronlauge</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>soda lye</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>lejía de sosa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>lessive de soude</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>liscivia di soda</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>kristal soda</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>soda [wasmiddel]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>lixívia de soda</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>natronlut</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22067">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>øjenbrynsstifter</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Augenbrauenstifte</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>eyebrow pencils</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>lápices para las pestañas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>crayons pour les sourcils</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>matite per le sopracciglia</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>wenkbrauwpotloden</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>lápis para as sobrancelhas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>ögonbrynspennor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22068">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>talkumpudder til toiletbrug</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Talkumpuder für Toilettezwecke</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>talcum powder, for toilet use</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>talco para tocador</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>talc pour la toilette</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>talco per toilette</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>talkpoeder voor toiletverzorging</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>talco para a "toilette"</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>talkpuder för toalettändamål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22069">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>kosmetiske farver</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Farbstoffe für die Kosmetik</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cosmetic dyes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>tintes cosméticos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>teintures cosmétiques</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>tinture cosmetiche</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>kosmetische kleurstoffen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>tintas para cosmética</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>tinturas cosméticas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>färgmedel, kosmetiska</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22070">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>terpentin til affedtning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Terpentin zum Entfetten</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>turpentine, for degreasing</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>trementina [producto de desengrasado]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>térébenthine [produit de dégraissage]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>trementina [prodotto per smacchiatura]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>terpentijn [ontvettingsmiddel]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>terebentina [produto de desengordurar]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>terpentin för avfettning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22071">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>terpentinolie til affedtning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Terpentinöl zum Entfetten</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>oil of turpentine for degreasing</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>esencia de trementina [producto para desengrasar]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>essence de térébenthine [produit de dégraissage]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>essenza di trementina [prodotto per smacchiature]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>terpentijnolie [ontvettingsmiddel]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>essência de terebentina [produto de desengordurar]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>terpentinolja för avfettning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22072">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>terpener [æteriske olier]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Terpene [ätherische Öle]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>terpenes [essential oils]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>terpenos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>terpènes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>terpeni</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>terpenen [vluchtige oliën]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>terpenos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>terpener [eteriska oljor]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22073">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>polerelærred</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>slibelærred</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Schmirgeltuch</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>abrasive cloth</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sandcloth</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>tela para pulir [alisar]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>toile à polir [rendre lisse]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>tela per lucidare [rendere liscio]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>tele per lucidare [rendere liscio]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>polijstlinnen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>tela para polir [tornar liso]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>slipdukar</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22074">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>glaslærred [til slibning]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Glasleinwand</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>glass cloth</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>tela de vidrio</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>toile verrée</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>tela vetrata</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>glaslinnen [voor het schuren]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>tela vidrada</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>glastyg</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22075">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>midler mod transpiration [toiletmidler]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>transpiration (midler mod -) [toiletmidler]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Antitranspirantien [schweißhemmende Toilettenmittel]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>anti-perspirants [toiletries]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>productos de tocador contra la transpiración</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>produits de toilette contre la transpiration</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>prodotti di toilette contro il sudore</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>toiletverzorgingsmiddelen tegen transpiratie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>produtos de "toilette" contra a transpiração</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>produtos de toilette contra a transpiração</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>antiperspiranter [toalettprep.]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22076">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>sæbe mod transpiration</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>schweißhemmende Seifen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>anti-perspirant soap</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>jabones contra la transpiración</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>savons contre la transpiration</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>saponi contro la traspirazione</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>zepen tegen transpiratie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>sabões contra a transpiração</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>antitranspirationstvål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22077">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>polerekridt</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Tripel [Poliererde]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>tripoli stone for polishing</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>trípoli para pulir</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>tripoli pour le polissage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>tripolo per lucidare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>tripelaarde voor het polijsten</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>tripoli para o polimento</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>trippel för polering</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22078">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>slibemidler*</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Schleifmittel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>abrasives</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>abrasivos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>abrasifs</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>abrasivi</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>schuurmiddelen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>abrasivos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>slipmedel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22079">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>slibepapir</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Schleifpapier</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>abrasive paper</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>papeles abrasivos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>papiers abrasifs</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>carte abrasive</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>schuurpapier</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>papeis abrasivos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>slippapper</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22080">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Salmiakgeist als Reinigungsmittel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ammonia [volatile alkali] [detergent]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>volatile alkali [ammonia] [detergent]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>amoniaco [álcali volátil] utilizado como detergente</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>álcali volátil [amoniaco] utilizado como detergente</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>alcali volatil [ammoniaque] utilisé comme détergent</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>ammoniaque [alcali volatil] utilisé comme détergent</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>alcali volatile [ammoniaca] utilizzato come detergente</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>ammoniaca [alcali volatile] utilizzato come detergente</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>ammoniak [ammonia] te gebruiken als reinigingsmiddel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>alcali volátil [amónia] utilizada como detergente</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>amónia [alcali volátil] utilizada como detergente</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>rengöringsmedel i form av ammoniak</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22081">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Alaunsteine [antiseptisch]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>alum stones [antiseptic]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>piedras de alumbre [antisépticos]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>pierres d'alun [antiseptiques]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>pietra d' allume [antisettico]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>pietra d'allume [antisettico]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>aluinstenen [antiseptica]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>pedras de alume [antisséticas]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>pedras de alume [antisséticos]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>alusten [antiseptisk]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22082">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>mandelmælk til kosmetiske formål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Mandelmilch für kosmetische Zwecke</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>almond milk for cosmetic purposes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>leche de almendras para uso cosmético</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>lait d'amandes à usage cosmétique</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>latte di mandorle per uso cosmetico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>amandelmelk voor kosmetisch gebruik</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>leite de amêndoas para uso cosmético</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>mandelmjölk för kosmetiska ändamål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22083">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>rustfjernepræparater</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Rostentfernungsmittel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>rust removing preparations</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>productos antioxidantes [para quitar la herrumbre]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>productos para la desoxidación</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>productos para quitar la herrumbre [oxidación]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>produits antirouille [pour l'enlèvement de la rouille]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>produits pour l'enlèvement de la rouille</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>produits pour le dérouillement</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>prodotti antiruggine [per staccare la ruggine]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>prodotti per togliere la ruggine</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>antiroestprodukten [roestverwijderende middelen]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>roestverwijderende middelen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>produtos antiferrugem [para retirar a ferrugem]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>produtos para o desenferrujamento</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>produtos para retirar a ferrugem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>rostborttagningsmedel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22084">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>solbrunende præparater [kosmetik]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Sonnenschutzmittel [kosmetische Mittel zur Hautbräunung]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sun-tanning preparations [cosmetics]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>preparaciones cosméticas para el bronceado de la piel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>productos antisolares [preparaciones cosméticas para el bronceado de la piel]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>produits antisolaires [préparations cosmétiques pour le bronzage de la peau]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>préparations cosmétiques pour le bronzage de la peau</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>preparati cosmetici per l' abbronzatura della pelle</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>prodotti antisolari [preparati cosmetici per l'abbronzatura della pelle]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>middelen tegen zonnebrand [kosmetische preparaten voor het bruinen van de huid]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>preparações cosméticas para o bronzeamento da pele</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>produtos anti-solares [preparações cosméticas para bronzear a pele]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>sololjor: solmjölk</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22103">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>klæbemidler til kosmetiske formål</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22104">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>hårlak</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>hårspray</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22105">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>mascara</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22106">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>potpourrier [dufte]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22107">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>bivoks</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Bienenwachs</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>beeswax</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>cera de abejas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>cire d'abeilles</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>cera d' api</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>bijenwas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>cera de abelhas</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>bivax</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22108">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>denatureret sprit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>kogesprit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>metylsprit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Brennspiritus</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>methylated spirit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>alcohol para quemar</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>alcool à brûler</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>spirito da bruciare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>spiritus</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>álcool para queimar</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>t-sprit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-22109">
+        <descripGrp>
+          <descrip type="subjectField">00</descrip>
+        </descripGrp>
+        <langSet xml:lang="da">
+          <tig>
+            <term>alkohol [brændstof]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Alkohol [Brennstoff]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>alcohol [fuel]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>alcohol utilizado como combustible</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>alcool utilisé comme combustible</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>alcool utilizzato come combustibile</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>alcohol te gebruiken als brandstof</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>álcool utilizado como combustível</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>alkohol [bränsle]</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

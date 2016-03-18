@@ -12,6 +12,7 @@ const packageJson = require('./package.json');
 // 	termID: string,							// req
 // 	subjectFields: [ string ],
 // 	note: string,
+//	definition: string,
 // 	de: [ string ],
 // 	nl: [ string ],
 // 	en: [ string ],
@@ -56,24 +57,27 @@ const tbx2obj = function (chunk, enc, callback) {
 
 		const id = $(termEntry).attr('id');
 		const langSet = $(termEntry).find('langSet');
-
 		const descrip = $(termEntry).find('descrip');
 		const descripType = $(descrip).attr('type');
 		const descripText = $(descrip).text();
 
-		console.log(id);
+		console.log("termID: " + id);
 		console.log(descripType + ": " + descripText);
 
 		langSet.each((i, langSetEntry) => {
 			const lang = $(langSetEntry).attr('xml:lang');
-			const term = $(langSetEntry).find('term').text();
-			const descrip = $(langSetEntry).find('descrip');
-			const descripType = $(descrip).attr('type');
-			const descripText = $(descrip).text();
+			const tig = $(langSetEntry).find('tig');
+			const ntig = $(langSetEntry).find('ntig');
+			let tigs = false;
 
-			console.log(lang);
-			console.log(term);
-			console.log(descripType + ": " + descripText);
+			if (tig.length != 0) tigs = tig;
+			if (ntig.length != 0) tigs = ntig;
+
+			if (tigs) tigs.each( (i, tigEntry) => {
+				const term = $(tigEntry).find('term').text();
+				console.log(lang + ": " + term);
+			});
+
 		})
 		console.log('\n');
 	});
