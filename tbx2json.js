@@ -37,8 +37,6 @@ program
 	.parse(process.argv);
 
 const encoding = program.encoding || 'utf8'; // Default encoding = utf8
-// TBX-Default uses tig
-// TBX uses ntig
 const tbxType = program.tbxtype || 'TBX-Default';
 
 //
@@ -81,7 +79,9 @@ const tbx2obj = function (chunk, enc, callback) {
 			o[lang] = [];
 
 			let tig;
+			// TBX-Default uses tig
 			if (tbxType === 'TBX-Default') tig = $(langSetEntry).find('tig');
+			// TBX uses ntig
 			if (tbxType === 'TBX') tig = $(langSetEntry).find('ntig');
 
 			// if tig contains terms map map them to the output object o
